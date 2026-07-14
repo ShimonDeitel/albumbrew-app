@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct Brewlog-AlbumListeningApp: App {
+struct BrewlogAlbumListeningApp: App {
     @StateObject private var store = Store()
     @StateObject private var purchaseManager = PurchaseManager()
 
