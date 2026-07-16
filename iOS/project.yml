@@ -55,7 +55,7 @@ targets:
       base:
         DEVELOPMENT_TEAM: W7Q885Q59C
 schemes:
-  Brewlog-AlbumListening:
+  Brewlog - Album Listening:
     build:
       targets:
         Brewlog-AlbumListening: all
