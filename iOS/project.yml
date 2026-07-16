@@ -42,6 +42,7 @@ targets:
       - target: Brewlog-AlbumListening
     settings:
       base:
+        GENERATE_INFOPLIST_FILE: "YES"
         DEVELOPMENT_TEAM: W7Q885Q59C
   Brewlog-AlbumListeningUITests:
     type: bundle.ui-testing
@@ -53,6 +54,7 @@ targets:
       - target: Brewlog-AlbumListening
     settings:
       base:
+        GENERATE_INFOPLIST_FILE: "YES"
         DEVELOPMENT_TEAM: W7Q885Q59C
 schemes:
   Brewlog - Album Listening:
